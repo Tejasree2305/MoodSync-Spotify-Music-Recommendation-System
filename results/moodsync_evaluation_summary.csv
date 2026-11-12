@@ -1,0 +1,11 @@
+Metric,Value
+Total Recommendations,5.0
+Average Cosine Similarity,0.9974
+Minimum Cosine Similarity,0.9972
+Maximum Cosine Similarity,0.9978
+Unique Mood Categories,2.0
+Mood Diversity Ratio,0.4
+Average Pairwise Euclidean Distance,0.1991
+Spearman Rank Correlation,0.3
+Average Absolute Rank Difference,1.2
+Songs With Different Ranks,3.0
